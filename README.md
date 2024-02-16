@@ -36,7 +36,7 @@ One of the final conclusions of the project is that due to the shifting city cli
 
 
 ### Steps to conclude the project:
-1. Creating a project borad on Trello
+1. Creating a project board on Trello
 - https://trello.com/b/X9i41wMw
 2. Notebook file trees:
 - Data files for felling trees were imported and cleaned (for example renaming columns, adding columns for year, subdistrict, removing null values). As output 14 tables were created.
